@@ -1,0 +1,20 @@
+house_id,aggregate_column,washing_machine_column,appliance_label_verified,notes
+1,Aggregate,Appliance5,yes,Official cleaned readme: Appliance5 Washing Machine; Appliance4 is Washer Dryer
+2,Aggregate,Appliance2,yes,Official cleaned readme identifies Appliance2 as Washing Machine
+3,Aggregate,Appliance6,yes,Official cleaned readme identifies Appliance6 as Washing Machine
+4,Aggregate,Appliance4|Appliance5,yes,Two channels identified as Washing Machine(1) and Washing Machine(2); summed as household washing-machine load
+5,Aggregate,Appliance3,yes,Official cleaned readme identifies Appliance3 as Washing Machine
+6,Aggregate,Appliance2,yes,Official cleaned readme identifies Appliance2 as Washing Machine
+7,Aggregate,Appliance5,yes,Official cleaned readme identifies Appliance5 as Washing Machine
+8,Aggregate,Appliance4,yes,Appliance3 is Washer Dryer; Appliance4 is Washing Machine
+9,Aggregate,Appliance3,yes,Appliance2 is Washer Dryer; Appliance3 is Washing Machine
+10,Aggregate,Appliance5,yes,Official cleaned readme identifies Appliance5 as Washing Machine
+11,Aggregate,Appliance3,yes,Official cleaned readme identifies Appliance3 as Washing Machine
+13,Aggregate,Appliance3,yes,Official cleaned readme identifies Appliance3 as Washing Machine; appliance change documented 25 Mar 2015; inspect temporal drift
+15,Aggregate,Appliance3,yes,Official cleaned readme identifies Appliance3 as Washing Machine
+16,Aggregate,Appliance5,yes,Official cleaned readme identifies Appliance5 as Washing Machine
+17,Aggregate,Appliance4,yes,Official cleaned readme identifies Appliance4 as Washing Machine
+18,Aggregate,Appliance5,yes,Official cleaned readme identifies Appliance5 as Washing Machine
+19,Aggregate,Appliance2,yes,Official cleaned readme identifies Appliance2 as Washing Machine
+20,Aggregate,Appliance4,yes,Official cleaned readme identifies Appliance4 as Washing Machine
+21,Aggregate,Appliance3,yes,Official cleaned readme identifies Appliance3 as Washing Machine

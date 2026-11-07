@@ -1,0 +1,31 @@
+# Paths are relative to the repository root.
+raw_data_dir: data/raw
+cleaned_data_dir: data/cleaned
+output_dir: outputs
+
+# Raw section: raw House 1. Select two appliance columns that exist in your
+# raw House 1 CSV. The script also auto-selects the first two Appliance* cols
+# if this list is empty.
+raw_house1_file: null
+raw_plot_appliance_columns: [Appliance4, Appliance5]
+
+# Official cleaned REFIT files are named CLEAN_HouseN.csv (or HouseN.csv).
+# Add one row per house/channel to config/appliance_mapping.csv.
+mapping_file: config/appliance_mapping.csv
+
+# Cycle detection. Applied to 1-minute washing-machine power.
+active_threshold_w: 10.0
+minimum_active_minutes: 5
+merge_inactive_gap_minutes: 2
+
+# Feature engineering and modelling.
+lags_minutes: [1, 2, 3, 5, 10, 15]
+rolling_windows_minutes: [5, 15]
+train_fraction: 0.70
+validation_fraction: 0.15
+random_state: 42
+max_training_rows_per_house: 50000
+
+# Data handling.
+resample_rule: "1min"
+short_gap_minutes_raw: 2

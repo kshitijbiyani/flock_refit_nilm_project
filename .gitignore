@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+data/raw/*
+data/cleaned/*
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+# Keep result plots and summary tables versioned for the take-home submission.
+outputs/model.joblib
+outputs/tables/test_predictions.csv
+outputs/tables/cleaned_1min_mapped_households.parquet
+outputs/tables/cleaned_1min_mapped_households.csv
+
+# Large generated files excluded from Git
+outputs/tables/raw_house1_cleaned_1min.csv
+outputs/house1_timestamp_audit.txt
+
+# Large generated files excluded from Git
+outputs/tables/raw_house1_cleaned_1min.csv
+outputs/house1_timestamp_audit.txt

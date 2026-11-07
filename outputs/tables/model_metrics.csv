@@ -1,0 +1,2 @@
+mae_w,rmse_w,r2,actual_energy_kwh,predicted_energy_kwh,absolute_energy_error_percent,active_precision,active_recall,active_f1,selected_model,test_rows,test_households
+9.301462913127645,85.52073530401363,0.2027254280869455,157.4139408664021,143.4473421312557,8.872529750716229,0.13670566965024636,0.4333104645062351,0.2078397212543554,HistGradientBoosting,1568446,19

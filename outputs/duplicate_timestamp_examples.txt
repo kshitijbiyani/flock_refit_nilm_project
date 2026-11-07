@@ -1,0 +1,112 @@
+
+FILE: data/raw/RAW_House1_Part1.csv
+================================================================================
+
+Previous row 210:
+{'Time': '2013-10-09 14:27:45', 'Unix': '1381328865', 'Aggregate': '2727', 'Appliance1': '0', 'Appliance2': '54', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 211:
+{'Time': '2013-10-09 14:27:46', 'Unix': '1381328865', 'Aggregate': '2675', 'Appliance1': '0', 'Appliance2': '54', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 342:
+{'Time': '2013-10-09 14:41:00', 'Unix': '1381329659', 'Aggregate': '1034', 'Appliance1': '0', 'Appliance2': '45', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 343:
+{'Time': '2013-10-09 14:41:00', 'Unix': '1381329659', 'Aggregate': '1167', 'Appliance1': '0', 'Appliance2': '45', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 380:
+{'Time': '2013-10-09 14:44:45', 'Unix': '1381329885', 'Aggregate': '397', 'Appliance1': '0', 'Appliance2': '43', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 381:
+{'Time': '2013-10-09 14:44:46', 'Unix': '1381329885', 'Aggregate': '397', 'Appliance1': '0', 'Appliance2': '44', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 387:
+{'Time': '2013-10-09 14:45:28', 'Unix': '1381329928', 'Aggregate': '367', 'Appliance1': '0', 'Appliance2': '44', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 388:
+{'Time': '2013-10-09 14:45:29', 'Unix': '1381329928', 'Aggregate': '366', 'Appliance1': '0', 'Appliance2': '44', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 408:
+{'Time': '2013-10-09 14:47:30', 'Unix': '1381330050', 'Aggregate': '390', 'Appliance1': '0', 'Appliance2': '43', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 409:
+{'Time': '2013-10-09 14:47:31', 'Unix': '1381330050', 'Aggregate': '383', 'Appliance1': '0', 'Appliance2': '43', 'Appliance3': '0', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 728:
+{'Time': '2013-10-09 15:19:30', 'Unix': '1381331970', 'Aggregate': '664', 'Appliance1': '0', 'Appliance2': '59', 'Appliance3': '69', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 729:
+{'Time': '2013-10-09 15:19:31', 'Unix': '1381331970', 'Aggregate': '660', 'Appliance1': '0', 'Appliance2': '59', 'Appliance3': '70', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 732:
+{'Time': '2013-10-09 15:19:59', 'Unix': '1381331999', 'Aggregate': '613', 'Appliance1': '0', 'Appliance2': '60', 'Appliance3': '70', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 733:
+{'Time': '2013-10-09 15:20:00', 'Unix': '1381331999', 'Aggregate': '613', 'Appliance1': '0', 'Appliance2': '57', 'Appliance3': '70', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 778:
+{'Time': '2013-10-09 15:24:30', 'Unix': '1381332270', 'Aggregate': '451', 'Appliance1': '0', 'Appliance2': '48', 'Appliance3': '69', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 779:
+{'Time': '2013-10-09 15:24:31', 'Unix': '1381332270', 'Aggregate': '454', 'Appliance1': '0', 'Appliance2': '48', 'Appliance3': '69', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 854:
+{'Time': '2013-10-09 15:32:14', 'Unix': '1381332734', 'Aggregate': '240', 'Appliance1': '0', 'Appliance2': '45', 'Appliance3': '68', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 855:
+{'Time': '2013-10-09 15:32:15', 'Unix': '1381332734', 'Aggregate': '235', 'Appliance1': '0', 'Appliance2': '45', 'Appliance3': '68', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Previous row 875:
+{'Time': '2013-10-09 15:34:16', 'Unix': '1381332856', 'Aggregate': '257', 'Appliance1': '0', 'Appliance2': '44', 'Appliance3': '69', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+Current row 876:
+{'Time': '2013-10-09 15:34:17', 'Unix': '1381332856', 'Aggregate': '255', 'Appliance1': '0', 'Appliance2': '44', 'Appliance3': '69', 'Appliance4': '0', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': '1'}
+
+Examples extracted: 10
+Malformed or incomplete rows skipped: 0
+
+FILE: data/raw/RAW_House1_Part2.csv
+================================================================================
+
+Previous row 53:
+{'Time': '2014-06-27 22:04:17', 'Unix': '1403906657', 'Aggregate': '363', 'Appliance1': '0', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 54:
+{'Time': '2014-06-27 22:04:18', 'Unix': '1403906657', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': '49', 'Appliance3': '71', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '30', 'Appliance9': 'NaN'}
+
+Previous row 269:
+{'Time': '2014-06-27 22:32:24', 'Unix': '1403908344', 'Aggregate': '10946', 'Appliance1': '85', 'Appliance2': 'NaN', 'Appliance3': '0', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 270:
+{'Time': '2014-06-27 22:32:25', 'Unix': '1403908344', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+
+Previous row 377:
+{'Time': '2014-06-27 22:46:32', 'Unix': '1403909192', 'Aggregate': '567', 'Appliance1': 'NaN', 'Appliance2': '0', 'Appliance3': '0', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '29', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 378:
+{'Time': '2014-06-27 22:46:33', 'Unix': '1403909192', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': 'NaN', 'Appliance8': '33', 'Appliance9': 'NaN'}
+
+Previous row 850:
+{'Time': '2014-06-27 23:48:30', 'Unix': '1403912910', 'Aggregate': '538', 'Appliance1': '0', 'Appliance2': '49', 'Appliance3': '0', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 851:
+{'Time': '2014-06-27 23:48:31', 'Unix': '1403912910', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': 'NaN', 'Appliance8': '36', 'Appliance9': 'NaN'}
+
+Previous row 1312:
+{'Time': '2014-06-28 00:48:53', 'Unix': '1403916533', 'Aggregate': '246', 'Appliance1': '79', 'Appliance2': '46', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 1313:
+{'Time': '2014-06-28 00:48:54', 'Unix': '1403916533', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': 'NaN'}
+
+Previous row 1713:
+{'Time': '2014-06-28 01:41:09', 'Unix': '1403919669', 'Aggregate': '217', 'Appliance1': '0', 'Appliance2': '46', 'Appliance3': '72', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 1714:
+{'Time': '2014-06-28 01:41:10', 'Unix': '1403919669', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': 'NaN'}
+
+Previous row 1892:
+{'Time': '2014-06-28 02:04:27', 'Unix': '1403921067', 'Aggregate': '148', 'Appliance1': '0', 'Appliance2': '0', 'Appliance3': '0', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 1893:
+{'Time': '2014-06-28 02:04:28', 'Unix': '1403921067', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': 'NaN'}
+
+Previous row 2075:
+{'Time': '2014-06-28 02:28:08', 'Unix': '1403922488', 'Aggregate': '170', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 2076:
+{'Time': '2014-06-28 02:28:09', 'Unix': '1403922488', 'Aggregate': 'NaN', 'Appliance1': '0', 'Appliance2': '48', 'Appliance3': '0', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': 'NaN'}
+
+Previous row 2273:
+{'Time': '2014-06-28 02:53:52', 'Unix': '1403924032', 'Aggregate': '281', 'Appliance1': '86', 'Appliance2': 'NaN', 'Appliance3': '71', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': 'NaN', 'Appliance7': 'NaN', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 2274:
+{'Time': '2014-06-28 02:53:53', 'Unix': '1403924032', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': '0', 'Appliance8': '0', 'Appliance9': 'NaN'}
+
+Previous row 2820:
+{'Time': '2014-06-28 04:05:01', 'Unix': '1403928301', 'Aggregate': '178', 'Appliance1': '0', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': '0', 'Appliance6': '0', 'Appliance7': '0', 'Appliance8': 'NaN', 'Appliance9': 'NaN'}
+Current row 2821:
+{'Time': '2014-06-28 04:05:02', 'Unix': '1403928301', 'Aggregate': 'NaN', 'Appliance1': 'NaN', 'Appliance2': 'NaN', 'Appliance3': 'NaN', 'Appliance4': 'NaN', 'Appliance5': 'NaN', 'Appliance6': 'NaN', 'Appliance7': 'NaN', 'Appliance8': '0', 'Appliance9': 'NaN'}
+
+Examples extracted: 10
+Malformed or incomplete rows skipped: 0

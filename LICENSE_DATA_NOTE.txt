@@ -1,0 +1,1 @@
+REFIT is distributed under CC BY 4.0 by the University of Strathclyde. Cite the dataset and paper when using it. This code repository does not include or redistribute the REFIT dataset files. Check the official source terms before redistributing any dataset-derived artifacts.
